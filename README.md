@@ -1,0 +1,1 @@
+# Append-only object store
